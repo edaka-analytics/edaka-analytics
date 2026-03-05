@@ -1,6 +1,6 @@
 # Enoch Daka  
 
-Mathematics and Geography graduate developing advanced competencies in Data Science, statistical modelling, and machine learning.
+Mathematics graduate developing advanced competencies in Data Science, statistical modelling, and machine learning.
 
 Currently preparing for MSc studies in Data Science and Artificial Intelligence with a focus on applied analytics in education and environmental systems.
 
